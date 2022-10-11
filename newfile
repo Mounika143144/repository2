@@ -8,6 +8,9 @@ public class JavaExceptionExample{
    //changes made by dev2 in feature2 branch
    int a=10;
    System.out.println(a);
+   //new changes made by dev1
+   System.out.println("rest of the code....");
+
    }
    }
  
