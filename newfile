@@ -5,6 +5,8 @@ public class JavaExceptionExample{
       int data=100/0;  
    }catch(ArithmeticException e){System.out.println(e);
    }
+   //new changes made by dev1
+   System.out.println("rest of the code....");
    }
    }
  
